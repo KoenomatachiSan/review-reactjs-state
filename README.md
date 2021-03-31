@@ -1,6 +1,5 @@
-# My review to ReactJS - Component
+# My review to ReactJS - State
 
-## What is Component?
+## What is State?
 
-For making project and code dinamic, componets are used to break code in chield parts,
-namedly components!
+State in react stores data from components!

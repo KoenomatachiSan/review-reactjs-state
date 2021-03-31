@@ -9,7 +9,7 @@ function App() {
          Hello World!
          My name is KoenomatachiSan, and it's my component!
         </p>
-        <Component title="Minha tabela, titulo via props"/>
+        <Component title="My Clock, title is props!"/>
     </div>
   );
 }
